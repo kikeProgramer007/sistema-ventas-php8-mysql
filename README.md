@@ -1,7 +1,4 @@
 # Sistema-de-Venta-PHP8-y-Mysql
-Nueva Actualización de sistema de venta básico
-
-# Sistema-de-Venta-PHP8-y-Mysql
 Sistema de venta en php8 y mysql
 
 ## Dashboard
